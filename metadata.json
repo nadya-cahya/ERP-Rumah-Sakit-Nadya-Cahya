@@ -1,0 +1,5 @@
+{
+  "name": "NexusHealth ERP",
+  "description": "A high-performance, cloud-native Hospital ERP frontend featuring specialized Executive Dashboards (CFO/COO) and AI-driven forecasting using Gemini.",
+  "requestFramePermissions": []
+}
